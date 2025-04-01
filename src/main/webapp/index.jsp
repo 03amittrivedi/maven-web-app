@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Amit IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome in the Worl of Amit Trivedi <font></h1>
 
-<a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
+<a href="www.jagrantv.com/">Click Here To Enter in Jagran</a>
   
-  <h2> Call Us : +91-9985396677  </h2>
+  <h2> Call Us : +91-7311192333  </h2>
   
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Our Ofc Location : Kanpur </h3>
 
 </body>
 </html>
