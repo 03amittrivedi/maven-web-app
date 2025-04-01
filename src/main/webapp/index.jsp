@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome in the Worl of Amit Trivedi <font></h1>
+<h1><font color='orange'> Welcome in the Worl of Amit Trivedi <font></h1>
 
 <a href="www.jagrantv.com/">Click Here To Enter in Jagran</a>
   
